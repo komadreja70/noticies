@@ -100,7 +100,7 @@ function cargarNoticias() {
 }
 
 function cargarFichero(nombreFichero) {
-    var path = "https://raw.githubusercontent.com/komadreja70/noticies/master/data/" + nombreFichero;
+    var path = "https://rawgit.com/komadreja70/noticies/master/data/" + nombreFichero;
 
     //carrega noticia
     $.getJSON(path, function (jsonObject) {
