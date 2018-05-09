@@ -1,16 +1,14 @@
 [
     {
-        "title": "Club Nàutic Sant Antoni 5 medalles",
-        "date": "Dilluns 23 abril 2018",
-        "img": "img/not/santantoni.jpg",
-        "desc": "L'expedició del Club Nàutic Sant Antoni ha retornat de la competició, celebrada al Port d’Alcudia aquest cap de setmana,
-		amb un total de cinc medalles."			
+       "title": "VXI Trofeu President",
+       "date": "Dissabte 28 octubre 2017",
+       "img": "img/not/rcnppetro.jpg",
+       "desc": "El passat día 28-10-17 es va celebrar el VXI Trofeu President a Portopetro. El Club Nàutic va quedar en 3ª posició."
     },
     {
-        "title": "Copa del Mundo 2018",
-        "date": "Dissabte 14 abril 2018",
-        "img": "img/not/k4500.jpg",
-        "desc": "El quàdruple medallista olímpic Saúl Craviotto reforçarà a Marcus Cooper Walz, Cristian Toro i Rodrigo Germade 
-		-vigents subcampions del món, al K4 500 espanyol que competirà al Campionat d'Europa i la I Copa del Món 2018"
+        "title": "Copa Balear Kayak de mar",
+        "date": "Dissabte 30 abril 2016",
+        "img": "img/not/villacarlos.jpg",
+        "desc": "3ª Copa Balear de kayak de Mar. Enhorabona a Viviana Canelas per quedar tercera a la regata del dissaabte"
     }
 ]
