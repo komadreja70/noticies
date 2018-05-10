@@ -6,6 +6,7 @@ Pàgina web de notícies - tema 6 i 7
 ----
 ## Tasques prèvies amb les imatges
 Descàrrega d'imatges i modificació utilitzant l'eina web de http://www.picresize.com/ per ajustar i comprimir-les.
+
 Imatges obtingudes de:
 * Club nàutic de Palma http://www.rcnp.es 
 * Club de vela port d'Andratx http://www.cvpa.es/
@@ -15,6 +16,7 @@ Imatges obtingudes de:
 * Club nàutic Sant Antoni de Portmany http://www.esnautic.com/
 * Federació Espanyola de piragüisme http:www.rfep.es
 * Federació Balear de piragüisme http://fibp.org/
+* Filiberto Ros Barceló
 
 ----
 ## Llista de fitxers pujats a GitHub
