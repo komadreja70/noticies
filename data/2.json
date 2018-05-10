@@ -1,14 +1,15 @@
 [
     {
-       "title": "VXI Trofeu President",
-       "date": "Dissabte 28 octubre 2017",
-       "img": "img/not/rcnppetro.jpg",
-       "desc": "El passat día 28-10-17 es va celebrar el VXI Trofeu President a Portopetro. El Club Nàutic va quedar en 3ª posició."
+        "title": "Iniciació Port de Pollença",
+        "date": "Dimecres 21 Març 2018",
+        "img": "img/not/rcnpp.jpg",
+        "desc": "És el grup més divertit al que els alumnes aprenen a remar i a competir jugant. Els membres d'aquest grup tenen entre 7 i 12 anys."
     },
     {
-        "title": "Copa Balear Kayak de mar",
-        "date": "Dissabte 30 abril 2016",
-        "img": "img/not/villacarlos.jpg",
-        "desc": "3ª Copa Balear de kayak de Mar. Enhorabona a Viviana Canelas per quedar tercera a la regata del dissaabte"
+		"title": "Ocean Racing 2017",
+        "date": "Divendres 17 novembre 2017",
+        "img": "img/not/hongkong.jpg",
+        "desc": "La selecció espanyola de piragüisme, integrada per 14 palistes, una entrenadora i un responsable federatiu,
+		aguarda a Hong Kong l'inici del Campionat del Món Ocean Racing 2017"       
     }
 ]
