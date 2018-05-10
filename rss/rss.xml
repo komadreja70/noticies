@@ -2,47 +2,46 @@
 <rss version="2.0">
 
 <channel>
-    <title>Rocket League News</title>
-    <link>https://rawgit.com/SOSandreu1095/WebNoticias/master/index.html</link>
-    <description>All the news of Rocket League here!</description>
+    <title>Mallorca Kayak</title>
+    <link>https://rawgit.com/komadreja70/noticies/master/index.html</link>
+    <description>Trobaràs aquí noticies sobre Kayak a Mallorca</description>
 
 
     <!--Noticia 1-->
     <item>
-        <title>COMMUNITY TRAININGS</title>
-        <link>https://rawgit.com/SOSandreu1095/WebNoticias/master/news1.html</link>
-        <description>We want to try our best to cater to players of all skill levels, as well as provide Custom Training
-                                sequences and Steam Workshop maps that help teach our players a broad range of skills and
-                                mechanics!</description>
-        <pubDate>Thu, 13 Apr 2017 00:00:00 GMT</pubDate>
+        <title>COOPER PLATA - 2ª COPA ESPANYA</title>
+        <link>https://rawgit.com/komadreja70/noticies/master/news1.html</link>
+        <description>Marcus Cooper logra plata en la 2ª Copa d'Espanya. Craviotto y Toro cerquen demà les seves 
+							primeres medalles de la temporada</description>
+        <pubDate>Dissabte 5 de maig de 2018</pubDate>
     </item>
     
     <!--Noticia 2-->
     <item>
-        <title>NEW GAMEMODE - DROPSHOT</title>
-        <link>https://rawgit.com/SOSandreu1095/WebNoticias/master/news2.html</link>
-        <description>Another FREE mode is coming to Rocket League later this month! Dropshot is a brand new take on
-                                Rocket League gameplay as we introduce dynamic breakable floors and an electrified ball!</description>
-        <pubDate>Mon, 13 Mar 2017 00:00:00 GMT</pubDate>
+        <title>CT. D'ESPANYA JOVES PROMESES</title>
+        <link>https://rawgit.com/komadreja70/noticies/master/news2.html</link>
+        <description>Campionat d'Espanya de piragüisme per a categories infantil i cadet que es celebrarà al llac esperança
+							d'Alcúdia el proper dia 28 d'abril de 2018. Aquí teniu tota la informació de l'event així com la descripció de com
+							arribar i on es celebrarà l'entrega de trofeus.!</description>
+        <pubDate>Dissabte 28 d'abril de 2018</pubDate>
     </item>
 
     <!--Noticia 3-->
     <item>
-        <title>TOURNAMENT IN MALLORCA</title>
-        <link>https://rawgit.com/SOSandreu1095/WebNoticias/master/news2.html</link>
-        <description>A new tournament will be the next Monday 15 at the event of Mallorca Games. There will be matches
-                                of 1vs1, 2vs2, or 3vs3. Be ready for that!</description>
-        <pubDate>Mon, 15 May 2017 00:00:00 GMT</pubDate>
+        <title>Club Nàutic Sant Antoni 5 medalles</title>
+        <link>https://rawgit.com/komadreja70/noticies/master/news1.html</link>
+        <description>L'expedició del Club Nàutic Sant Antoni ha retornat de la competició, celebrada al Port d’Alcudia aquest cap de setmana,
+		amb un total de cinc medalles.</description>
+        <pubDate>Dilluns 23 abril 2018 13:00</pubDate>
     </item>
 
     <!--Noticia 4-->
     <item>
-        <title>RLCS SEASON 3 CHAMPIONSHIP</title>
-        <link>https://rawgit.com/SOSandreu1095/WebNoticias/master/news2.html</link>
-        <description>We want to try our best to cater to players of all skill levels, as well as provide Custom Training
-                                sequences and Steam Workshop maps that help teach our players a broad range of skills and
-                                mechanics!</description>
-        <pubDate>Mon, 08 May 2017 00:00:00 GMT</pubDate>
+        <title>Copa del Mundo 2018</title>
+        <link>https://rawgit.com/komadreja70/noticies/master/news2.html</link>
+        <description>El quàdruple medallista olímpic Saúl Craviotto reforçarà a Marcus Cooper Walz, Cristian Toro i Rodrigo Germade 
+		-vigents subcampions del món, al K4 500 espanyol que competirà al Campionat d'Europa i la I Copa del Món 2018</description>
+        <pubDate>Dissabte 14 abril 2018 23:00</pubDate>
     </item>
 </channel>
 
