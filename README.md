@@ -1,5 +1,5 @@
 # noticies
-Pàgina web de notícies - tema 6 tasca número 6
+Pàgina web de notícies - tema 6 i 7
 
 > notícies. Enllaç de rawgit https://rawgit.com/komadreja70/noticies/master/index.html
 
@@ -10,7 +10,7 @@ Descàrrega d'imatges i modificació utilitzant l'eina web de http://www.picresi
 ----
 ## Llista de fitxers pujats a GitHub
 
-Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers següents:
+Hem creat un repositori dins GitHub que es diu noticies i hem pujat els fitxers següents:
 
 * Carpeta img amb totes les imatges del projecte
 * Carpeta css amb el codi d'estils tant per la pàgina principal com per la notícia individual
@@ -23,11 +23,16 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 
 ----
 ## Utilització de javascript
-Hem utilitzat javascript per controlar la nau.
-* velocidad
-* altura
-* combustible
-Son els paràmetres que mostrarem en pantalla i els seus valors varien constantment.
-* hayfuel, nivell, pausat són variables d'entorn amb les que controlam si hi ha nivell de combustible, el nivell de dificultad i pausat indica si s'ha pitjat la tecla de pausa.
+Hem utilitzat javascript per controlar la càrrega de notícies ja sigui mitjançant botó o bé amb l'scroll del mouse.
+* llegim les notícies desde el fitxer .json amb les eines de javascript i jquery
+
+----
+## Funcionament bàsic
+* En carregar la pàgina es presenta el titol i el menú. A continuació la publicitat a la dreta en el cas desktop i al centre i a dalt en el cas de dispositiu mòbil.
+
+* Apareixen les notícies en grups de 2 i d'entrada només les dues primeres. 
+* Si pitjam el botó de carregar més notícies o bé fein scroll es carrguen 2 notícies més i així fins que acabam amb 6 notícies més.
+* Quan no hi ha més notícies a carregar apareix el missatge abaix com un warning.
+
 
 
